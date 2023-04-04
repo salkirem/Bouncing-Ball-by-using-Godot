@@ -1,0 +1,44 @@
+{
+    "wave1": [        
+        ["E", "E", "E", "E", "E", "Musketeer", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "Villager", "Villager", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "Villager", "Musketeer", "E", "Villager", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "Musketeer", "Villager", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "Villager", "E", "E"],
+        ["E", "E", "Villager", "Musketeer", "E", "E", "E"],
+        ["E", "Wizard", "E", "Musketeer", "E", "Villager", "E"]
+    ],
+    "wave2": [        
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "Wizard", "E", "E", "E", "Villager", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "Wizard", "E", "E", "E", "E"],
+        ["E", "Villager", "E", "Villager", "Villager", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "E", "E", "E", "E", "E", "E"],
+        ["E", "Wizard", "Musketeer", "Villager", "Wizard", "E", "E"],
+        ["E", "E", "E", "E", "E", "Wizard", "E"],
+        ["E", "E", "Villager", "E", "E", "E", "E"]
+    ]
+}
+
+
+
+
+
+
+
